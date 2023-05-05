@@ -1,0 +1,13 @@
+com\javaboy\tienchin\generator\mapper\GenTableMapper.class
+com\javaboy\tienchin\generator\mapper\GenTableColumnMapper.class
+com\javaboy\tienchin\generator\util\GenUtils.class
+com\javaboy\tienchin\generator\controller\GenController.class
+com\javaboy\tienchin\generator\service\IGenTableService.class
+com\javaboy\tienchin\generator\config\GenConfig.class
+com\javaboy\tienchin\generator\domain\GenTableColumn.class
+com\javaboy\tienchin\generator\service\IGenTableColumnService.class
+com\javaboy\tienchin\generator\domain\GenTable.class
+com\javaboy\tienchin\generator\service\GenTableServiceImpl.class
+com\javaboy\tienchin\generator\util\VelocityUtils.class
+com\javaboy\tienchin\generator\util\VelocityInitializer.class
+com\javaboy\tienchin\generator\service\GenTableColumnServiceImpl.class
